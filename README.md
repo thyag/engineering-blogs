@@ -76,6 +76,7 @@
 
 #### C companies
 * Canva https://engineering.canva.com
+* Capital One https://developer.capitalone.com/blogs/
 * Capgemini https://capgemini.github.io/
 * CenturyLink https://www.ctl.io/developers/blog
 * Cerner http://engineering.cerner.com/
